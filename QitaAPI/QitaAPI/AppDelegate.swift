@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  pracswift
+//  QitaAPI
 //
-//  Created by 山平潤 on 2020/01/10.
+//  Created by 山平潤 on 2020/06/04.
 //  Copyright © 2020 山平潤. All rights reserved.
 //
 

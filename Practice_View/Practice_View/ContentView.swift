@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  pracswift
+//  Practice_View
 //
-//  Created by 山平潤 on 2020/01/10.
+//  Created by 山平潤 on 2020/01/17.
 //  Copyright © 2020 山平潤. All rights reserved.
 //
 
